@@ -38,21 +38,8 @@
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=haroldrs&show_icons=true&theme=radical&locale=es" alt="Harold's GitHub Stats" />
-</p>
-
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=radical&locale=es" alt="Harold's Top Languages" />
-</p>
-
----
-
 ## 🤝 Conecta conmigo:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/haroldrs)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haroldjosetfr@gmail.com)
-## [![TryHackMe](https://img.shields.io/badge/TryHackMe-212c42?style=for-the-badge&logo=tryhackme&logoColor=white)](TU_LINK_DE_TRYHACKME)
-## [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white)](TU_LINK_DEL_PORTAFOLIO)
+
