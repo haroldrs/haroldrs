@@ -50,7 +50,9 @@
 
 ---
 
-## 🤝 Conecta Conmigo
+## 🤝 Conecta conmigo:
 
-<p align="left">
-  </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/haroldrs)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haroldjosetfr@gmail.com)
+## [![TryHackMe](https://img.shields.io/badge/TryHackMe-212c42?style=for-the-badge&logo=tryhackme&logoColor=white)](TU_LINK_DE_TRYHACKME)
+## [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white)](TU_LINK_DEL_PORTAFOLIO)
