@@ -31,7 +31,6 @@
 ## 🚀 Sobre Mí y Mis Objetivos
 
 * 🎓 **Educación:** Estudiante de Informática, 7º Ciclo.
-* 🔭 **Actualmente trabajando en:** Refactorizando y mejorando la seguridad de un proyecto de software clave.
 * 🌱 **Aprendiendo activamente:** Conceptos avanzados de Ciberseguridad, Ethical Hacking y análisis de vulnerabilidades.
 * 🎯 **Próximo objetivo:** Adquirir certificaciones en el área de seguridad y desarrollar herramientas propias.
 * ⚡ **Dato curioso:** Creo firmemente que la mejor defensa es entender el ataque.
