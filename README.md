@@ -75,4 +75,5 @@ Mi formación se orienta al desarrollo backend, la administración de sistemas L
 📍 Pacasmayo, La Libertad, Perú
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haroldrs)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haroldjosetfr@gmail.com)
+
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:harold_rs345@hotmail.com)
